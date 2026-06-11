@@ -1,6 +1,6 @@
 # US Voter Registration Lookup Tools
 
-A list of official state voter registration lookup portals, put together for name-based searches during Trace Labs Search Party CTFs (missing persons OSINT).
+A list of official state voter registration lookup portals, put together for name-based searches.
 
 Each state's elections office runs some kind of "am I registered to vote" tool. Most of them can be used to confirm whether a name shows up on the rolls and in which jurisdiction. The catch is that states differ a lot in what they ask for. Some let you search by just a name; others lock you out unless you already know the person's driver's license number, SSN, or assigned voter ID.
 
